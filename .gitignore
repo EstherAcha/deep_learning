@@ -1,0 +1,12 @@
+__pycache__/
+
+# This is the folder where I store test files
+assets/
+
+# This is the file where export the results
+results/
+
+requirements.txt
+
+# Virtual environment
+dl-venv/
